@@ -2,17 +2,12 @@ import ArcGalleryHero from "@/components/ArcGalleryHero";
 
 const Index = () => {
   const images = [
-    "/freepik__enhance__98192.png",
-    "/LS.png",
-    "/freepik__a-closeup-shot-features-a-glossy-purple-crossshape__48873.png",
-    "/freepik__the-style-is-3d-model-with-octane-render-volumetri__57555.png",
-    "/eqirGoRIJPaIMgEUeliWpNxeFmI.jpg",
-    "/ultra-detailed_close-up_side_profile_of_a_dark-skinned_model_wearing_futuristic_chrome_wraparound_s_ps17q5ms2ptu5t6bdru6_2.png",
-    "/slide.png",
-    "/freepik__abstract-digital-art-featuring-a-series-of-horizon__489.png",
-    "/abstract-blue-gradient.webp",
-    "/VkvvhXlWo3hEBzcqwTpjd_aa4bf9ee998f4ec0b17a8bf16fe3e9e2.jpg",
-    "/hyperrealistic_commercial_product_photography_of_luxury_chrome_sunglasses_on_male_model_extreme_chi_fanguv2w9zx489lcivwa_2.png",
+    "https://cdn.poehali.dev/projects/6c508cda-5f6b-4ddc-8115-96042d3f103d/files/fb5339c8-7963-4767-b85e-35d079c7a877.jpg",
+    "https://cdn.poehali.dev/projects/6c508cda-5f6b-4ddc-8115-96042d3f103d/files/48f365dd-3880-43b0-a571-b628d4591a67.jpg",
+    "https://cdn.poehali.dev/projects/6c508cda-5f6b-4ddc-8115-96042d3f103d/files/824478d9-56ff-45da-9563-e21d1b2edfc5.jpg",
+    "https://cdn.poehali.dev/projects/6c508cda-5f6b-4ddc-8115-96042d3f103d/files/3369258c-f9fb-4c6a-a8f0-7bbd528893a1.jpg",
+    "https://cdn.poehali.dev/projects/6c508cda-5f6b-4ddc-8115-96042d3f103d/files/30c73a75-d8f6-48e3-af53-0db2a7e9ecaa.jpg",
+    "https://cdn.poehali.dev/projects/6c508cda-5f6b-4ddc-8115-96042d3f103d/files/9d0d3c2f-0155-4959-9eaf-05e3fa7adeca.jpg",
   ];
 
   return (
@@ -24,9 +19,9 @@ const Index = () => {
         radiusLg={480}
         radiusMd={360}
         radiusSm={260}
-        cardSizeLg={120}
-        cardSizeMd={100}
-        cardSizeSm={80}
+        cardSizeLg={130}
+        cardSizeMd={105}
+        cardSizeSm={85}
         className="pt-16 pb-16 md:pt-20 md:pb-20 lg:pt-24 lg:pb-24"
       />
     </main>
